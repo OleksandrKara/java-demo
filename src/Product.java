@@ -9,25 +9,16 @@ public abstract class Product {
     public static final int DEF_DISCOUNT = 10;
     private String title;
     private double price;
-    private int quantity;
 
     public String getTitle(){
         return title;
     }
 
-    public int getQuantity(){
-        return quantity;
-    }
-
-    public double getPrice(){
+      public double getPrice(){
         return price;
     }
 
-    public int setQuantity(int newQuantity){
-        return this.quantity = newQuantity;
-    }
-
-    public String setTitle(String newTitle){
+      public String setTitle(String newTitle){
         return this.title = newTitle;
     }
 
@@ -35,14 +26,14 @@ public abstract class Product {
             return this.price = newPrice;
     }
 
-    public double setCost(){
+    public double getCost(int quantity){
         double realCost = quantity*price;
-        return realCost-(realCost*calcDiscount()/100);
+        return realCost-(realCost*calcDiscount(quantity)/100);
     }
 
-    protected int calcDiscount(){
-        if (quantity > 10){
-            return DEF_DISCOUNT;
+    protected int calcDiscount(int quantity){
+        if (quantity > DEF_DISCOUNT){
+            return 10;
         }
         else return 0;
     }

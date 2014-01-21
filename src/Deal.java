@@ -1,6 +1,4 @@
-import java.util.Collection;
-import java.util.Date;
-import java.util.LinkedList;
+import java.util.*;
 
 /**
  * Created with IntelliJ IDEA.
@@ -10,16 +8,15 @@ import java.util.LinkedList;
  * To change this template use File | Settings | File Templates.
  */
 public class Deal {
-    private Date date;
+    private Date date = new Date();
     private Party seller;
     private Party buyer;
-    Collection <Product> products = new LinkedList<Product>();
+    private final Map<Product, Integer> products = new HashMap<Product, Integer>();
 
-    public Deal(Party seller, Party buyer, Collection <Product> products){
+    public Deal(Party seller, Party buyer){
+        /*super();*/
         this.seller = seller;
         this.buyer = buyer;
-        this.products = products;
-        date = new Date();
     }
 
     public Date getDate(){
@@ -34,14 +31,16 @@ public class Deal {
         return buyer;
     }
 
-    public Collection <Product> getProducts(){
+    public Map<Product, Integer> getProducts(){
         return products;
     }
 
     public double getSum(){
         double rez = 0;
-        for(Product product: products){
-            rez += product.setCost();
+        for(Map.Entry<Product, Integer> entry : products.entrySet()){
+            Product product = entry.getKey();
+            int quantity = entry.getValue();
+            rez += product.getCost(quantity);
         }
         return rez;
     }

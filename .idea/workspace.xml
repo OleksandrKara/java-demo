@@ -4,17 +4,19 @@
     <list default="true" id="7c0213f8-90ea-4c27-b8f1-c9e3c4f10385" name="Default" comment="" />
     <ignored path="ThirdPracticeJava.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Party.java" changelist="7c0213f8-90ea-4c27-b8f1-c9e3c4f10385" time="1389629472091" ignored="false" />
-    <file path="/Product.java" changelist="7c0213f8-90ea-4c27-b8f1-c9e3c4f10385" time="1389783895301" ignored="false" />
-    <file path="/Deal.java" changelist="7c0213f8-90ea-4c27-b8f1-c9e3c4f10385" time="1389871288756" ignored="false" />
-    <file path="/Program.java" changelist="7c0213f8-90ea-4c27-b8f1-c9e3c4f10385" time="1389878822412" ignored="false" />
+    <file path="/Party.java" changelist="7c0213f8-90ea-4c27-b8f1-c9e3c4f10385" time="1390310017639" ignored="false" />
+    <file path="/Product.java" changelist="7c0213f8-90ea-4c27-b8f1-c9e3c4f10385" time="1390228321406" ignored="false" />
+    <file path="/Deal.java" changelist="7c0213f8-90ea-4c27-b8f1-c9e3c4f10385" time="1390231579781" ignored="false" />
+    <file path="/Program.java" changelist="7c0213f8-90ea-4c27-b8f1-c9e3c4f10385" time="1390318546726" ignored="false" />
     <file path="$PROJECT_DIR$/../ШтзгеЛунищфкв/src/ШтзгеЛунищфкв.java" changelist="7c0213f8-90ea-4c27-b8f1-c9e3c4f10385" time="1389691632501" ignored="false" />
     <file path="/ШтзгеЛунищфкв.java" changelist="7c0213f8-90ea-4c27-b8f1-c9e3c4f10385" time="1389691624867" ignored="false" />
     <file path="$PROJECT_DIR$/../ШтзгеЛунищфкв/src/InputKeyboard.java" changelist="7c0213f8-90ea-4c27-b8f1-c9e3c4f10385" time="1389691988214" ignored="false" />
     <file path="/InputKeyboard.java" changelist="7c0213f8-90ea-4c27-b8f1-c9e3c4f10385" time="1389691959449" ignored="false" />
-    <file path="/FotoProduct.java" changelist="7c0213f8-90ea-4c27-b8f1-c9e3c4f10385" time="1389783707696" ignored="false" />
+    <file path="/FotoProduct.java" changelist="7c0213f8-90ea-4c27-b8f1-c9e3c4f10385" time="1390228905533" ignored="false" />
     <file path="/BotinkiProduct.java" changelist="7c0213f8-90ea-4c27-b8f1-c9e3c4f10385" time="1389786189900" ignored="false" />
     <file path="/fragment.java" changelist="7c0213f8-90ea-4c27-b8f1-c9e3c4f10385" time="1389781610023" ignored="false" />
+    <file path="$PROJECT_DIR$/../FifthPracticeJava/src/MatrixClass.java" changelist="7c0213f8-90ea-4c27-b8f1-c9e3c4f10385" time="1390213407853" ignored="false" />
+    <file path="/MatrixClass.java" changelist="7c0213f8-90ea-4c27-b8f1-c9e3c4f10385" time="1390213079659" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,6 +68,53 @@
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
     </breakpoint_any>
+    <line_breakpoints>
+      <breakpoint url="file://$PROJECT_DIR$/src/Deal.java" line="30" class="Deal" package="">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/src/Program.java" line="26" class="Program" package="">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/src/Program.java" line="60" class="Program" package="">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+    </line_breakpoints>
     <breakpoint_rules />
     <ui_properties />
   </component>
@@ -78,8 +127,11 @@
       <file leaf-file-name="Party.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Party.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="0" selection-start="309" selection-end="309" vertical-scroll-proportion="0.0">
-              <folding />
+            <state line="26" column="45" selection-start="618" selection-end="618" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#347#363#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -87,7 +139,7 @@
       <file leaf-file-name="Product.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Product.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="42" column="30" selection-start="931" selection-end="943" vertical-scroll-proportion="0.0">
+            <state line="20" column="2" selection-start="416" selection-end="416" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -96,7 +148,7 @@
       <file leaf-file-name="FotoProduct.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/FotoProduct.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="23" column="48" selection-start="514" selection-end="524" vertical-scroll-proportion="0.0">
+            <state line="28" column="43" selection-start="628" selection-end="628" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -114,10 +166,9 @@
       <file leaf-file-name="Deal.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Deal.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="36" column="31" selection-start="807" selection-end="807" vertical-scroll-proportion="0.0">
+            <state line="16" column="10" selection-start="427" selection-end="439" vertical-scroll-proportion="0.0">
               <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#388#397#0" expanded="true" />
+                <element signature="e#352#370#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -126,9 +177,10 @@
       <file leaf-file-name="Program.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Program.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="86" column="23" selection-start="2949" selection-end="2949" vertical-scroll-proportion="2.1594455">
+            <state line="48" column="28" selection-start="1672" selection-end="1683" vertical-scroll-proportion="0.60930234">
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#324#330#0" expanded="true" />
+                <element signature="e#391#400#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -144,14 +196,14 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/Party.java" />
         <option value="$PROJECT_DIR$/src/products/BotinkiProduct.java" />
         <option value="$PROJECT_DIR$/src/products/FotoProduct.java" />
-        <option value="$PROJECT_DIR$/src/FotoProduct.java" />
-        <option value="$PROJECT_DIR$/src/Product.java" />
         <option value="$PROJECT_DIR$/src/BotinkiProduct.java" />
+        <option value="$PROJECT_DIR$/src/FotoProduct.java" />
         <option value="$PROJECT_DIR$/src/Deal.java" />
+        <option value="$PROJECT_DIR$/src/Party.java" />
         <option value="$PROJECT_DIR$/src/Program.java" />
+        <option value="$PROJECT_DIR$/src/Product.java" />
       </list>
     </option>
   </component>
@@ -394,17 +446,17 @@
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32925472" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.21579532" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.55839825" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32925472" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.14349277" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24970761" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23319103" sideWeight="0.67074525" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.23470522" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23319103" sideWeight="0.7741935" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.22580644" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -490,41 +542,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Party.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="0" selection-start="309" selection-end="309" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/FotoProduct.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="48" selection-start="514" selection-end="524" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Product.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="42" column="30" selection-start="931" selection-end="943" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/BotinkiProduct.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="24" column="32" selection-start="522" selection-end="522" vertical-scroll-proportion="0.0">
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Deal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="36" column="31" selection-start="807" selection-end="807" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#388#397#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -535,11 +556,45 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Program.java">
+    <entry file="file://$PROJECT_DIR$/src/Deal.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="86" column="23" selection-start="2949" selection-end="2949" vertical-scroll-proportion="2.1594455">
+        <state line="16" column="10" selection-start="427" selection-end="439" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="e#352#370#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FotoProduct.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="28" column="43" selection-start="628" selection-end="628" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Product.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="2" selection-start="416" selection-end="416" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Party.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="45" selection-start="618" selection-end="618" vertical-scroll-proportion="0.0">
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#347#363#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Program.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="48" column="28" selection-start="1672" selection-end="1683" vertical-scroll-proportion="0.60930234">
+          <folding>
+            <element signature="e#324#330#0" expanded="true" />
+            <element signature="e#391#400#0" expanded="true" />
           </folding>
         </state>
       </provider>
